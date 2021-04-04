@@ -6,4 +6,3 @@ const valorB = parseFloat(value.shift())
 
 const media = ((valorA * 3.5) + (valorB * 7.5)) / 11
 console.log(`MEDIA = ${media.toFixed(5)}`)
-
