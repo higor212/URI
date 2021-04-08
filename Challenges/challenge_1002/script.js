@@ -1,4 +1,4 @@
-const input = require('fs').readFileSync('/dev/stdin', 'utf8');
+const input = require('fs').readFileSync('./dev/stdin', 'utf8');
 const lines = input.split('\n');
 
 const raio = parseFloat(lines.shift())
