@@ -7,5 +7,5 @@ Repositório com o propósito de serem armazenados todos os desafios de lógica 
 
 ### Clone do repositório
 ```
-$ git clone <https://github.com/higor212/URI.git>
+$ git clone https://github.com/higor212/URI.git
 ```
