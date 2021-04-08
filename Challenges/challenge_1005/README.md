@@ -8,7 +8,7 @@ O arquivo de entrada contém 2 valores com uma casa decimal cada um.
 
 **Exemplo de entrada**
 
-5.0
+5.0  
 7.1
 
 
