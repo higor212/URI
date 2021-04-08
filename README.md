@@ -9,3 +9,10 @@ Repositório com o propósito de serem armazenados todos os desafios de lógica 
 ```
 $ git clone https://github.com/higor212/URI.git
 ```
+#### Todos os desafios já realizados até então
+
+- [x] challenge_1000
+- [x] challenge_1001
+- [x] challenge_1002
+- [x] challenge_1003
+- [x] challenge_1005
