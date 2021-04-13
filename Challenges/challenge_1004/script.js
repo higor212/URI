@@ -1,0 +1,8 @@
+const input = require('fs').readFileSync('./dev/stdin', 'utf8');
+const lines = input.split('\n');
+
+const firstValue = Number(lines.shift())
+const secondValue = Number(lines.shift())
+
+const times = firstValue * secondValue
+console.log(`PROD = ${times}`)
