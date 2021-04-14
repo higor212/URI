@@ -5,4 +5,5 @@ const firstValue = Number(lines.shift())
 const secondValue = Number(lines.shift())
 
 const times = firstValue * secondValue
+
 console.log(`PROD = ${times}`)
