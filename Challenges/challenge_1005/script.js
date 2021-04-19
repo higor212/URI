@@ -1,8 +1,8 @@
-const input = require('fs').readFileSync('./dev/stdin', 'utf8');
-const value = input.split('\n');
+const input = require('fs').readFileSync('/dev/stdin', 'utf8');
+const lines = input.split('\n');
 
-const valorA = parseFloat(value.shift())
-const valorB = parseFloat(value.shift())
+const firstValue = Number(lines.shift())
+const secondValue = Number(lines.shift())
 
-const media = ((valorA * 3.5) + (valorB * 7.5)) / 11
+const media = ((firstValue * 3.5) + (secondValue * 7.5)) / 11
 console.log(`MEDIA = ${media.toFixed(5)}`)
