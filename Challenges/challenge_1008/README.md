@@ -18,5 +18,5 @@ Imprima o número e o salário do funcionário, conforme exemplo fornecido, com 
 
 **Exemplo de saída**
 
-NUMBER = 25
+NUMBER = 25  
 SALARY = U$ 550.00
