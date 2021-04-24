@@ -11,6 +11,3 @@ const diff = (firstValue * secondValue) - (thirdValue * fourthValue)
 
 
 console.log(`DIFERENCA = ${diff}`)
-
-
-
